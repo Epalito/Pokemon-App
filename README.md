@@ -1,4 +1,5 @@
 # Pokemon-App
+
 Objectifs : premier projet en JS sur un exercice bien connu, fonctions de bases, premier projet utilisant une API. 
 
 HTML et CSS usuels permettant de faire des rappels.
